@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EcoMate</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="terminos_de_uso">
+        Bienvenido/a a EcoMate, la aplicación diseñada para ayudarte a contribuir al cuidado del medio ambiente y al reciclaje responsable de residuos domésticos. Antes de utilizar la aplicación, por favor lee detenidamente los siguientes términos y condiciones de uso:
+\n\n
+Propósito de la aplicación: EcoMate tiene como objetivo principal ayudar en la creación de un dataset para entrenar modelos clasificadores de residuos domésticos. Para ello, los usuarios podrán subir imágenes de los residuos que deseen clasificar.
+\n\n
+Condiciones de uso de las imágenes: Al subir una imagen a la aplicación, el usuario acepta que dicha imagen se utilizará únicamente para el propósito descrito en el punto anterior. El usuario no podrá acceder a las imágenes subidas hasta que finalice el proyecto. No se permitirá el uso de las imágenes con fines distintos a los establecidos en este punto.
+\n\n
+Contacto: Si tienes alguna duda o sugerencia sobre el uso de la aplicación, puedes contactarnos en la dirección de correo electrónico juanma.caaz@gmail.com.
+\n\n
+Beneficios: No se busca ningún beneficio económico ni de otro tipo sobre las imágenes de los residuos proporcionados por los usuarios.
+\n\n
+Responsabilidad: El usuario será el único responsable del contenido que suba a la aplicación. Por lo tanto, deberá garantizar que las imágenes proporcionadas cumplen con las leyes aplicables y que no infringen los derechos de terceros.
+\n\n
+Modificaciones: Nos reservamos el derecho de modificar los términos y condiciones de uso de la aplicación en cualquier momento. Si realizamos alguna modificación, te informaremos mediante un aviso en la propia aplicación.
+\n\n
+Aceptación de los términos: Al registrarte y/o iniciar sesión en EcoMate, aceptas plenamente los términos y condiciones de uso descritos en este documento.
+\n\n
+Esperamos que disfrutes de la aplicación y que puedas contribuir al cuidado del medio ambiente y al reciclaje responsable de residuos domésticos. ¡Gracias por utilizar EcoMate!
+    </string>
+
+    <string name="como_usar">
+        EcoMate es una aplicación que tiene como objetivo facilitar la creación de un dataset mediante la toma de una foto de un producto y la indicación de donde se deposita. En cuanto a la clasificación de los residuos, en España se clasifican en diferentes categorías según su origen y características A continuación encontraras algunos ejemplos y en qué contenedores se tienen que depositar:
+\n\n
+        Papel y cartón: se depositan en el contenedor azul. Ejemplos: periódicos, revistas, cajas de cartón (de zapatos, de electrodomésticos), folletos publicitarios, sobres de papel, etc.
+\n\n
+        Envase ligero: se depositan en el contenedor amarillo. Ejemplos: botellas de plástico (de agua, refrescos, zumos), latas de bebidas y conservas, briks de leche o zumo, envases de yogur o queso fresco, bolsas de plástico (de la compra), bandejas de corcho blanco o negro (de carne o pescado), envoltorios de plástico (de embutidos), etc.
+\n\n
+        Productos orgánicos: se depositan en el contenedor marrón. Ejemplos: restos de comida (frutas, verduras, carne, pescado), cáscaras de huevo, posos de café o té, servilletas y papel de cocina usados, etc.
+\n\n
+        Envase de vidrio: se depositan en el contenedor verde. Ejemplos: botellas de vidrio (de vino, cerveza), frascos (de conservas), tarros (de mermelada), copas y vasos de cristal, etc.
+\n\n
+        Resta/No recicable: se depositan en el contenedor gris. Ejemplos: pañales usados, compresas y tampones usados, chicles y caramelos usados, colillas de cigarrillos, polvo y ceniza de la chimenea o barbacoa, etc.
+\n\n
+        Desecheria/Punto verde: se depositan en los puntos verdes o en las plantas de tratamiento. Ejemplos: muebles viejos (sillas, mesas), electrodomésticos (neveras, lavadoras), televisores y ordenadores viejos, juguetes rotos o estropeados, etc.
+\n\n
+        Medicamentos y productos farmacéuticos: se depositan en los puntos SIGRE o en las farmacias. Ejemplos: medicamentos caducados o que ya no se utilizan.
+\n\n
+        Pilas y acumuladores: se depositan en los puntos verdes o en las tiendas donde se venden pilas. Ejemplos: pilas alcalinas (AAA, AA), pilas recargables (NiMH), baterías de móvil o portátil.
+\n\n
+        Ropa y tejidos textiles: se depositan en los contenedores específicos para ropa usada o en tiendas que recogen ropa usada. Ejemplos: ropa vieja que ya no utilizamos (camisetas, pantalones), cortinas viejas o rotas, sábanas y toallas viejas.
+\n\n
+        Residuos electrónicos: se depositan en los puntos verdes o en las tiendas donde se venden productos electrónicos. Ejemplos: móviles viejos que ya no utilizamos, cargadores antiguos que ya no funcionan.
+\n\n
+        Si tienes alguna duda puedes consultar la página https://www.residuonvas.cat/es ¡Gracias por ser parte del esfuerzo para cuidar nuestro planeta!
+    </string>
+
+</resources>
