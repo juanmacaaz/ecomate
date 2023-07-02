@@ -1,28 +1,3 @@
-Haz un readme para un dosier del trabajo de final de carrera, siguiendo las siguientes indicaciones:
-
-- Me llamo Juan Manuel Camara Diaz
-- He cursado Ingeniria Informatica, mencion de computacion
-- Año de finalizacion 2023
-- Explica lo que hay en cada carpeta.
-    - Dataset - Firebase EcoMate: Dataser recogido por los usuarios mediante la aplicacion EcoMate
-    - Dataset - Imagenes test: Imagenes que se han escogido para hacer el test con Aire, CLIP y los modelos de clasificacion escogidos (XCeption y MovileNetV2)
-    - Dataset - Redimensionado 224x244: Dataset Creado a mano de diferentes sitios, scrapeados, otros dataset y fotos propias
-    - EcoMate - API: Codigo y archivos necesarios para desplagar la API. Se necesita usar uvicorn para iniciarla. Y indicar el host con la IP del ordenador actual. Explica paso por paso.
-    - EcoMate - App: Aplicacion creada con Android studio. Formato de ficheros el que usa Android Studio.
-    - Informe - Figuras: Imagenes usadas para el informe.
-    - Informe - Version Final: Version final del informe (paper)
-    - Informe - Versiones Antiguas: Versiones antiguas de los informes.
-    - Pruebas - Clasificacion: Codigo usado para realizar las pruebas de los modelos de clasificacion.
-    - Pruebas - CLIP: Codigo usado para realizar las pruebas de CLIP.
-    - Pruebas - Otros: El resto de codigo que no se donde ponerlo.
-    - Pruebas - Segment Anything: Codigo usado para realizar las pruebas Segment Anything
-- Indica que para crear el entorno utilizar conda. Version de python 3.9.X y explica como crear el entorno con conda y el requirements.txt paso por paso.
-- El tutor se llama Coen Antes.
-- El titulo del TFG es "Mejorando el reciclaje domestico mediante Vision por Computador"
-- El abstract del informe es el siguiente, usalo para hacer una introduccion al readme: Este artículo explora el papel esencial del reciclaje en la protección del medio ambiente y la conservación de los recursos naturales, destacando la capacidad de la tecnología para otorgar herramientas a los ciudadanos y facilitar el reciclaje doméstico. En particular, se examinan los avances en visión por computadora y su aplicación en el desarrollo de herramientas para la clasificación precisa de los residuos. Se discute la invención de instrumentos específicos que simplifican el etiquetado de imágenes de residuos, un componente esencial para el entrenamiento de modelos de aprendizaje automático. Todo esto se lleva a cabo con el diseño y la implementación de una aplicación móvil que tiene como objetivo promover y facilitar el reciclaje en el hogar.\\
-- Agrega emogis en el titulo de cada apartado.
-
-
 # Mejorando el reciclaje doméstico mediante Visión por Computador 🌍💻
 
 ¡Hola! Soy Juan Manuel Camara Diaz, estudiante de Ingeniería Informática con mención en Computación, y este es el repositorio de mi Trabajo de Fin de Grado (TFG) en la Universidad, completado en 2023. En este proyecto, exploramos cómo las tecnologías de visión por computadora pueden facilitar y mejorar el reciclaje doméstico, un componente esencial en la protección del medio ambiente y la conservación de los recursos naturales.
