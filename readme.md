@@ -63,11 +63,15 @@ Para crear y activar el entorno siguiendo el archivo `requirements.txt`, abre un
 - **XCeption**: [Descargar](https://drive.google.com/file/d/1JHpsSZAp25RXXl-l0szzCrgS7Ygkvgpp/view?usp=sharing)
 - **Features**: [Descargar](https://drive.google.com/file/d/1CQsPUjVp4wRYnaOHgTGvpSmsp5wRGCwl/view?usp=sharing)
 
-## Descarga la aplicación
+## :arrow_down: Descarga la aplicación
 
 Puedes descargar la ultima version aplicación desde [aquí](https://drive.google.com/file/d/1KxPcby8A10lMBfXiZTabOC3sAkJ64KjU/view?usp=sharing).
 
 O puedes descargar la aplicación desde la [Play Store](https://play.google.com/store/apps/details?id=com.ecomate&hl=es_PA) Nota: La versión de la Play Store puede no estar actualizada.
+
+## 📱 Demo de la aplicación
+
+<a href="https://youtu.be/myf1cMW1o3E"><img src="https://github.com/juanmacaaz/ecomate/blob/main/Informe%20-%20Figuras/new_app1.jpeg" alt="drawing" width="200"/>
 
 ---
 
