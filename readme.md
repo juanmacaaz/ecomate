@@ -1,6 +1,6 @@
 # Mejorando el reciclaje doméstico mediante Visión por Computador 🌍💻
 
-¡Hola! Soy Juan Manuel Camara Diaz, estudiante de Ingeniería Informática con mención en Computación, y este es el repositorio de mi Trabajo de Fin de Grado (TFG) en la Universidad, completado en 2023. En este proyecto, exploramos cómo las tecnologías de visión por computadora pueden facilitar y mejorar el reciclaje doméstico, un componente esencial en la protección del medio ambiente y la conservación de los recursos naturales.
+¡Hola! Soy Juan Manuel Camara, estudiante de Ingeniería Informática con mención en Computación, y este es el repositorio de mi Trabajo de Fin de Grado (TFG) en la Universidad, completado en 2023. En este proyecto, exploramos cómo las tecnologías de visión por computadora pueden facilitar y mejorar el reciclaje doméstico, un componente esencial en la protección del medio ambiente y la conservación de los recursos naturales.
 
 📚 En este README encontrarás una descripción detallada de cada carpeta del proyecto, lo que te ayudará a entender mejor la estructura y el funcionamiento de todo el trabajo. 
 
