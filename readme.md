@@ -4,33 +4,33 @@
 
 📚 En este README encontrarás una descripción detallada de cada carpeta del proyecto, lo que te ayudará a entender mejor la estructura y el funcionamiento de todo el trabajo. 
 
-## 📂 Contenido del repositorio 
+## 🗃️ Contenido del repositorio 
 
 Cada carpeta del repositorio tiene un propósito específico en el proyecto:
 
-- **Dataset - Firebase EcoMate**: Este dataset ha sido recopilado por los usuarios a través de la aplicación EcoMate. 
+- **📁Dataset - Firebase EcoMate**: Este dataset ha sido recopilado por los usuarios a través de la aplicación EcoMate. 
 
-- **Dataset - Imagenes test**: Aquí encontrarás las imágenes que se seleccionaron para realizar las pruebas con Aire, CLIP y los modelos de clasificación seleccionados (XCeption y MobileNetV2).
+- **📁Dataset - Imagenes test**: Aquí encontrarás las imágenes que se seleccionaron para realizar las pruebas con Aire, CLIP y los modelos de clasificación seleccionados (XCeption y MobileNetV2).
 
-- **Dataset - Redimensionado 224x224**: Este es un dataset creado manualmente a partir de varias fuentes, incluyendo sitios web scrapeados, otros conjuntos de datos y fotografías propias.
+- **📁Dataset - Redimensionado 224x224**: Este es un dataset creado manualmente a partir de varias fuentes, incluyendo sitios web scrapeados, otros conjuntos de datos y fotografías propias.
 
-- **EcoMate - API**: Aquí encontrarás el código y los archivos necesarios para desplegar la API. Necesitarás usar `uvicorn` para iniciarlo e indicar el host con la IP de tu computadora.
+- **📁EcoMate - API**: Aquí encontrarás el código y los archivos necesarios para desplegar la API. Necesitarás usar `uvicorn` para iniciarlo e indicar el host con la IP de tu computadora.
 
-- **EcoMate - App**: Aquí está la aplicación creada con Android Studio. Los archivos están en el formato que utiliza Android Studio.
+- **📁EcoMate - App**: Aquí está la aplicación creada con Android Studio. Los archivos están en el formato que utiliza Android Studio.
 
-- **Informe - Figuras**: Imágenes usadas para el informe final del TFG.
+- **📁Informe - Figuras**: Imágenes usadas para el informe final del TFG.
 
-- **Informe - Version Final**: Aquí está la versión final del informe.
+- **📁Informe - Version Final**: Aquí está la versión final del informe.
 
-- **Informe - Versiones Antiguas**: Aquí puedes encontrar versiones antiguas de los informes.
+- **📁Informe - Versiones Antiguas**: Aquí puedes encontrar versiones antiguas de los informes.
 
-- **Pruebas - Clasificacion**: Código utilizado para realizar las pruebas de los modelos de clasificación.
+- **📁Pruebas - Clasificacion**: Código utilizado para realizar las pruebas de los modelos de clasificación.
 
-- **Pruebas - CLIP**: Código utilizado para realizar las pruebas de CLIP.
+- **📁Pruebas - CLIP**: Código utilizado para realizar las pruebas de CLIP.
 
-- **Pruebas - Otros**: Aquí está el resto del código que no se clasifica en las otras categorías.
+- **📁Pruebas - Otros**: Aquí está el resto del código que no se clasifica en las otras categorías.
 
-- **Pruebas - Segment Anything**: Código utilizado para realizar pruebas con la herramienta Segment Anything.
+- **📁Pruebas - Segment Anything**: Código utilizado para realizar pruebas con la herramienta Segment Anything.
 
 ## 🛠️ Creación del entorno con Conda
 
@@ -56,6 +56,12 @@ Para crear y activar el entorno siguiendo el archivo `requirements.txt`, abre un
 ¡Y eso es todo! Ahora deberías tener todo lo que necesitas para ejecutar y explorar este proyecto. Si
 
  tienes alguna pregunta o problema, no dudes en ponerte en contacto conmigo.
+
+## 💾 Modelos de clasificación pre-entrenados
+
+- **MobileNetV2**: [Descargar](https://drive.google.com/file/d/1QG4A9DLrQjRvonoX1jg9gN_-wVba2SkB/view?usp=sharing)
+- **XCeption**: [Descargar](https://drive.google.com/file/d/1JHpsSZAp25RXXl-l0szzCrgS7Ygkvgpp/view?usp=sharing)
+- **Features**: [Descargar](https://drive.google.com/file/d/1CQsPUjVp4wRYnaOHgTGvpSmsp5wRGCwl/view?usp=sharing) Características extraídas por OpenCLIP para las imágenes similares.
 
 ---
 
